@@ -1,2 +1,2 @@
 # Slat_Opti
-An Inwasive Weed Optimisation framework to optimise leading edge slat shape
+An Inwasive Weed Optimisation based framework to optimise leading edge slat shape
