@@ -1,6 +1,6 @@
-# AeroWeedOpti
+# AeroGeneticOptimizer
 
-AeroWeedOpti is an innovative aerodynamic optimization tool that leverages Invasive Weed Optimization (IWO) and Reynolds-Averaged Navier-Stokes (RANS) Computational Fluid Dynamics (CFD) to optimize aerodynamic surfaces.
+AeroGeneticOptimizer is an innovative aerodynamic optimization tool that leverages an in-house-developed genetic algorithm, specifically Invasive Weed Optimization (IWO) and Reynolds-Averaged Navier-Stokes (RANS) Computational Fluid Dynamics (CFD), to optimize wings.
 
 ## Features
 
